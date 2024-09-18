@@ -4,4 +4,4 @@
 
 3, run the code with python elrs_parser.py
 
-![GUI](https://github.com/TonyInvent/CRSF-View/tree/main/img/elrs_parser.png)
+![alt text](<./img/elrs_parser.png>)
